@@ -11,7 +11,7 @@ The course consists of 36 Sections that range from general information to OOO pr
 ---
 
 | Section 1-12 | Section 13-24 | Section 25-36 |
-| ------------ | ------------- | ------------- |
+| :---------: | :-----------: | :-----------: |
 |<ul><li>[x] 1</li></ul> |<ul><li>[ ] 13</li></ul> |<ul><li>[ ] 25</li></ul> |
 |<ul><li>[x] 2</li></ul> |<ul><li>[ ] 14</li></ul> |<ul><li>[ ] 26</li></ul> |
 |<ul><li>[x] 3</li></ul> |<ul><li>[ ] 15</li></ul> |<ul><li>[ ] 27</li></ul> |
