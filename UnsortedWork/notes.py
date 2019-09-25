@@ -22,6 +22,10 @@
     # item is a new variable that can be called whatever you want (within the limirations of python of course)
     # item references the current position of our iterator within the iterable. It will iterate over (run through) every item of the collection and then fo away when it has visited all items
 
+# a "while" loop will continue to run until the condition provided is false.
+    # can be an infinite loop if you are not careful
+# you need to create a separate variable that is then used in the loop
+
 # Ranges
 # a way to represent a sequence of numbers commonly used in loops
 
