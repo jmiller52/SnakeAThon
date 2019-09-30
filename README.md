@@ -22,5 +22,5 @@ The course consists of 36 Sections that range from general information to Object
 |<ul><li>[x] 8</li></ul> Boolean and Conditional Logic |<ul><li>[ ] 20</li></ul> Lambdas and Built-In Functions |<ul><li>[ ] 32</li></ul> Web Scraping with BeuatifulSoup |
 |<ul><li>[x] 9</li></ul> Rock, Paper, Scissors |<ul><li>[ ] 21</li></ul> Debugging and Error Handling |<ul><li>[ ] 33</li></ul> Web Scraping Project |
 |<ul><li>[x] 10</li></ul> Looping in Python |<ul><li>[ ] 22</li></ul> Modules |<ul><li>[ ] 34</li></ul> Regular Expressions |
-|<ul><li>[ ] 11</li></ul> Guessing Game |<ul><li>[ ] 23</li></ul> Optional Section: Making HTTP Requests with Python |<ul><li>[ ] 35</li></ul> Python + SQL |
+|<ul><li>[x] 11</li></ul> Guessing Game |<ul><li>[ ] 23</li></ul> Optional Section: Making HTTP Requests with Python |<ul><li>[ ] 35</li></ul> Python + SQL |
 |<ul><li>[ ] 12</li></ul> Lists |<ul><li>[ ] 24</li></ul> Object Oriented Programming |<ul><li>[ ] 36</li></ul> Massive Section of Challenges |
