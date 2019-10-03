@@ -22,3 +22,20 @@ if "Trevor" in friends:
     print("You have a friend!")
 else:
     print("No Friends For You!")
+
+# accessing all values in a list
+# one way
+
+numbers = [1, 2, 3, 4]
+
+for number in numbers: 
+#number automatically stores the value in each index of the numbers list one at a time
+    print(number)
+# this prints all values in the list
+
+
+# now with a while loop
+i = 0 #required for the while loop. This case used to keep track of what index we are at in the list
+while i < len(numbers):
+    print(numbers[i])
+    i += 1
