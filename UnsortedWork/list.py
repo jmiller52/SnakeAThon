@@ -39,3 +39,41 @@ i = 0 #required for the while loop. This case used to keep track of what index w
 while i < len(numbers):
     print(numbers[i])
     i += 1
+
+
+# List comprehension VS looping
+
+# for loop
+numbers = [1, 2, 3, 4, 5]
+double_numbers = []
+
+for num in numbers:
+    double_number = num * 2
+    double_numbers.append(double_number)
+
+print(double_numbers) # [2. 4. 6. 8. 10]
+
+# List Comprehension
+
+numberss = [1, 2, 3, 4, 5]
+
+double_numberss = [nums * 2 for nums in numberss]
+print(double_numberss)
+
+# more examples
+
+numbs = [numb*10 for numb in range(1,6)] # [10, 20, 30, 40, 50]
+print(numbs)
+
+values = [bool(val) for val in [0, '', []]] # [false, false, false]
+print(values)
+
+# now with logic
+numbers = [1, 2, 3, 4, 5, 6]
+
+evens = [num for num in numbers if num % 2 == 0] # only the evens
+odds = [num for num in numbers if num % 2 != 0] # only the odds
+
+mix = [num*2 if num % 2 == 0 else num/2 for num in numbers]
+# if the value is even it gets doubled otherwise it gets halved
+print(mix)
