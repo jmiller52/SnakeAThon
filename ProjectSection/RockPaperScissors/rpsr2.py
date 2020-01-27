@@ -23,3 +23,5 @@ elif player1 == "scissors":
         print("player2 wins")
     else:
         print("player1 wins")
+else:
+    print("Please enter a valid rock, paper or scissor choice.")
